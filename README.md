@@ -2,11 +2,11 @@
 
 👋 Hello, World! I'm Bogomil Petrov!
 
-My Tech stack: HTML, CSS, JAVASCRIPT, REACT, MYSQL
+My Tech stack: HTML, CSS, JAVASCRIPT, REACT.JS, REACT NATIVE, SWIFT, SWIFTUI, MYSQL
 
 🔭 I’m currently working on: React app
 
-🌱 I’m currently learning: React.js
+🌱 I’m currently learning: REACT.JS, REACT NATIVE, SWIFT, SWIFTUI,
 
 📫 How to reach me: bogipetrov@gmail.com
 
